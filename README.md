@@ -3,5 +3,6 @@ Led the development of a web scraping solution to extract real-time forex data f
 
 
 Key Achievements:
+
 Successfully implemented a robust web scraping script that extracts forex rates for major currency pairs from NIC Asia's website.  
 Developed a scheduling mechanism to automate the scraping process at regular intervals, maintaining a consistent flow of data.  
